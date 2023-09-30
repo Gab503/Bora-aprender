@@ -9,3 +9,5 @@ Computational thinking is a systematic process, involving well-defined steps.
 Computational thinking seeks to find efficient solutions that use the minimum amount of resources possible.
 #### Human and machine: 
 Computational thinking should be understandable by both humans and machines.
+
+* It's a generalist skill.
