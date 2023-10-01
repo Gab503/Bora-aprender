@@ -126,7 +126,7 @@ Refinement
 It is a continuous process present at all stages.
 
 #### Advantages:
-Better understanding
-More efficiency
-Less time
-Less storage
+* Better understanding
+* More efficiency
+* Less time
+* Less storage
