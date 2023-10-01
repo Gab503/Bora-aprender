@@ -10,7 +10,7 @@ Computational thinking seeks to find efficient solutions that use the minimum am
 #### Human and machine: 
 Computational thinking should be understandable by both humans and machines.
 
-     * It's a generalist skill.
+* It's a generalist skill.
 
 ## Based on 4 pillars:
 
