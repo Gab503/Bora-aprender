@@ -85,3 +85,28 @@ Analyse (définir la solution) -> Test -> Raffinement -> Analyse...
 * **Abduction:** L'abduction utilise la conclusion pour déterminer la prémisse. Par exemple, si l'herbe est mouillée, alors il a dû pleuvoir.
 
 Le premier type de raisonnement logique, l'induction, est utilisé dans les découvertes, tandis que l'abduction est utilisée dans les diagnostics et les processus d'enquête.
+
+## Énigme familiale
+Un père, une mère et leurs deux enfants sont assis à une table. Les hommes s'appellent Roberto et Sergio, les femmes Teresa et Fernanda. On sait que le père est devant Fernanda et le fils à gauche, et que la mère est à droite de Sergio.
+
+### Solution:
+Sergio est le père, Teresa la mère, Roberto le fils et Fernanda la fille.
+
+#### Raffinement
+* Raffinage: Amélioration, perfectionnement, polissage, affinement. À partir d'une solution, déterminer les points d'amélioration et de raffinement.
+
+#### Action de perfectionner:
+1. Trouver une solution efficace.
+2. Optimiser les processus.
+3. Simplifier les lignes de code.
+4. Définir des fonctions bien définies.
+1 et 2: Meilleure utilisation des ressources.
+3 et 4: Améliorer les codes et les algorithmes.
+
+C'est un processus continu présent à toutes les étapes.
+
+#### Avantages :
+Meilleure compréhension
+Plus d'efficacité
+Moins de temps
+Moins de stockage
