@@ -113,6 +113,6 @@ O Sérgio é o pai, a Mãe Teresa, Roberto o filho e Fernanda a filha.
 - Maior compreensão
 - Mais eficiência
 - Menos tempo
-- Menos armazenamento.
+- Menos armazenamento
 
 
