@@ -103,3 +103,30 @@ It occurs inversely to Induction; Given a law and a theory, you will perform a d
 Uses the conclusion to determine the premise. Ex: The grass is wet, so it must have rained.
 
 The first type of logical reasoning, the inductive one, is used in discoveries, the abductive one in diagnoses, and in investigative processes.
+
+## Family Puzzle
+A father, mother, and their two children are sitting at a table. The men are named Roberto and Sergio, the women Teresa and Fernanda. It is known that the father is in front of Fernanda and the son to the left, and that the mother is to the right of Sergio.
+
+### Solution:
+
+Sergio is the father, Teresa is the mother, Roberto is the son, and Fernanda is the daughter.
+
+Refinement
+* Refinement: Improvement, perfection, polishing, refinement. From a solution, determine improvement and refinement points.
+
+### Action of perfecting:
+
+1. Find an efficient solution.
+2. Optimize processes.
+3. Simplify lines of code.
+4. Define well-defined functions.
+1 and 2: Better use of resources.
+3 and 4: Improve codes and algorithms.
+
+It is a continuous process present at all stages.
+
+#### Advantages:
+Better understanding
+More efficiency
+Less time
+Less storage
