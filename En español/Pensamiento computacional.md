@@ -109,7 +109,7 @@ Sergio es el padre, Teresa la madre, Roberto el hijo y Fernanda la hija.
 Es un proceso continuo presente en todas las etapas.
 
 ### Ventajas:
-Mayor comprensión
-Más eficiencia
-Menos tiempo
-Menos almacenamiento
+* Mayor comprensión
+* Más eficiencia
+* Menos tiempo
+* Menos almacenamiento
