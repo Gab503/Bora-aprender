@@ -106,7 +106,7 @@ Sergio est le père, Teresa la mère, Roberto le fils et Fernanda la fille.
 C'est un processus continu présent à toutes les étapes.
 
 #### Avantages :
-Meilleure compréhension
-Plus d'efficacité
-Moins de temps
-Moins de stockage
+* Meilleure compréhension
+* Plus d'efficacité
+* Moins de temps
+* Moins de stockage
