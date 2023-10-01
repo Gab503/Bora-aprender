@@ -87,3 +87,29 @@ Es una habilidad que se puede desarrollar con la práctica.
 * Abducción: Utiliza la conclusión para determinar la premisa. Ex: La hierba está mojada, luego debe haber llovido.
 
 El primer tipo de razonamiento lógico, el de inducción, se utiliza en los descubrimientos, el de abducción en los diagnósticos, en los procesos investigativos.
+
+## Rompecabezas familiar
+** Un padre, madre e hijos están sentados a la mesa. Los hombres se llaman Roberto y Sergio, las mujeres Teresa y Fernanda. Se sabe que el padre está delante de Fernanda y el hijo a la izquierda, y que la madre está a la derecha de Sergio.
+
+* Solución:
+Sergio es el padre, Teresa la madre, Roberto el hijo y Fernanda la hija.
+
+### Refinamiento
+* Refinamiento: Mejora, perfeccionar, pulir, afinar. A partir de una solución, determinar puntos de mejora y refinamiento.
+
+### Acción de perfeccionar:
+
+1. Encontrar una solución eficiente.
+2. Optimizar procesos.
+3. Simplificar líneas de código.
+4. Funciones bien definidas.
+1 y 2: Mejor uso de recursos.
+3 y 4: Mejorar códigos y algoritmos.
+
+Es un proceso continuo presente en todas las etapas.
+
+### Ventajas:
+Mayor comprensión
+Más eficiencia
+Menos tiempo
+Menos almacenamiento
