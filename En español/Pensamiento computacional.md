@@ -64,4 +64,10 @@ Es una habilidad que se puede desarrollar con la práctica.
 
 #### Clasificación:
 
-* **Inducción
+* Inducción: Dado un fenómeno que estoy observando, voy a tomar esa particularidad, escenario específico, y voy a extrapolarlo al campo de las ideas y determinar leyes y teorías basadas en lo que vi y experimenté. Es muy utilizado en las Ciencias Experimentales.
+
+* Deducción: Ocurre de forma inversa a la Inducción; Dado una ley y una teoría, voy a realizar una deducción, que voy a realizar predicciones y explicaciones. Muy utilizado en las Ciencias Exactas
+
+* Abducción: Utiliza la conclusión para determinar la premisa. Ex: La hierba está mojada, luego debe haber llovido.
+
+El primer tipo de razonamiento lógico, el de inducción, se utiliza en los descubrimientos, el de abducción en los diagnósticos, en los procesos investigativos.
