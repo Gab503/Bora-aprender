@@ -84,3 +84,22 @@ Computational thinking requires the use of logical reasoning to evaluate informa
 * A teacher can use computational thinking to explain a complex concept in a clear and concise way.
 
 * A decision-maker can use computational thinking to evaluate information and make informed decisions.
+
+## Complementary skills
+
+### Logical reasoning:
+Logical reasoning is a structured form of thinking, or reasoning, that allows you to find the conclusion or determine the solution to a problem.
+It is a skill that can be developed through practice.
+
+#### Classification:
+
+* Induction: 
+Given a phenomenon that I am observing, I will take that particularity, specific scenario, and extrapolate it into the field of ideas and determine laws and theories based on what I saw and experienced. It is widely used in the Experimental Sciences.
+
+* Deduction: 
+It occurs inversely to Induction; Given a law and a theory, you will perform a deduction, which will make predictions and explanations. Widely used in the Exact Sciences
+
+* Abduction:
+Uses the conclusion to determine the premise. Ex: The grass is wet, so it must have rained.
+
+The first type of logical reasoning, the inductive one, is used in discoveries, the abductive one in diagnoses, and in investigative processes.
