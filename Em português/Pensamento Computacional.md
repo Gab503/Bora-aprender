@@ -72,6 +72,18 @@ Análise (definir solução) -> Teste -> Refinamento -> Análise...
   
 - Um tomador de decisões pode usar o pensamento computacional para avaliar informações e tomar decisões informadas.
 
-**Habilidades Complementares**
+## Habilidades Complementares
 
-**Raciocínio Lógico:** O raciocínio lógico é uma forma estruturada de pensamento que permite encontrar conclusões ou determinar soluções para um problema. É uma habilidade que pode ser desenvolvida com a prática.
+**Raciocínio Lógico:** O raciocínio lógico é uma forma estruturada de pensar, um processo de raciocínio que permite encontrar conclusões ou determinar soluções para um problema. É uma habilidade que pode ser desenvolvida com a prática.
+
+### Classificação:
+
+* **Indução:** Na indução, a partir de um fenômeno que estamos observando, pegamos uma particularidade, um cenário específico, e extrapolamos isso para o campo das ideias, determinando leis e teorias com base no que vimos e experimentamos. Isso é amplamente utilizado nas Ciências Experimentais.
+
+* **Dedução:** A dedução ocorre de forma inversa à indução. Dada uma lei e uma teoria, fazemos deduções, realizando previsões e explicações. Isso é amplamente utilizado nas Ciências Exatas.
+
+* **Abdução:** A abdução usa a conclusão para determinar a premissa. Por exemplo, se a grama está molhada, então deve ter chovido.
+
+O primeiro tipo de raciocínio lógico, o da indução, é usado em descobertas, enquanto o da abdução é usado em diagnósticos e processos investigativos.
+
+
