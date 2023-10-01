@@ -1,5 +1,3 @@
-Aqui está o texto traduzido para o francês:
-
 **Pensée Informatique**
 
 Fait référence au processus impliqué dans l'expression de solutions en étapes informatiques ou algorithmes qui peuvent être implémentés sur un ordinateur. (Aho, 2011 ; Lee, 2016).
