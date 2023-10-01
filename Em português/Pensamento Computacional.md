@@ -86,4 +86,33 @@ Análise (definir solução) -> Teste -> Refinamento -> Análise...
 
 O primeiro tipo de raciocínio lógico, o da indução, é usado em descobertas, enquanto o da abdução é usado em diagnósticos e processos investigativos.
 
+## Quebra-Cabeça da Família
+
+Um pai, mãe e seu casal de filhos estão sentados em uma mesa. Os homens se chamam Roberto e Sérgio, as mulheres Teresa e Fernanda. Sabe-se que o pai está à frente de Fernanda e o filho à esquerda, e que a mãe está do lado direito de Sérgio.
+
+**Resposta:**
+O Sérgio é o pai, a Mãe Teresa, Roberto o filho e Fernanda a filha.
+
+## Refinamento
+
+**Refinamento:** Melhoramento, aperfeiçoar, aprimorar, refinar. A partir de uma solução, determinar pontos de melhoria e refinamento.
+
+**Ato de aperfeiçoar:**
+1. Encontrar uma solução eficiente.
+2. Otimizar processos.
+3. Simplificar linhas de códigos.
+4. Funções bem definidas.
+
+**1 e 2:** Melhor uso de recursos.
+**3 e 4:** Melhorar códigos e algoritmos.
+
+É um processo contínuo presente em todas as etapas.
+
+### Vantagens: 
+
+- Maior compreensão
+- Mais eficiência
+- Menos tempo
+- Menos armazenamento.
+
 
