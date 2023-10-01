@@ -26,3 +26,31 @@ Identify patterns or trends within a particular problem or within different prob
  Automate the solution of a problem, defining it step by step. An algorithm consists of an input that needs an output, and a set of operations that will be performed to achieve that solution.
 Problem -> Set/Sequence of operations -> Solution
 
+## Continuous process
+
+* Define a solution
+* Test the solution
+* Improve the solution found. To optimize resources, that is, faster and at a lower cost. (The more efficient, the less resource you should use)
+
+### Cycle:
+
+Analysis (define solution) -> Testing -> Refinement -> Analysis…
+
+### Variation of the pillars/complementary
+
+* Logical reasoning
+* Refinement
+
+## Examples of the use of computational thinking:
+
+#### Chemistry: 
+Improvement of chemical reactions through the use of algorithms, through the identification of chemicals.
+
+### Engineering:
+Aircraft simulations executed via software instead of a wind tunnel, saving resources.
+
+### Biology:
+ Modeling and mapping of the human genome.
+
+### Computer science: 
+Simulation of high-order problems on supercomputers.
