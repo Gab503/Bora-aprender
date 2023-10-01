@@ -55,3 +55,32 @@ Aircraft simulations executed via software instead of a wind tunnel, saving reso
 
 ### Computer science: 
 Simulation of high-order problems on supercomputers.
+
+## Competencies that you gain from computational thinking:
+
+### Systematic thinking: 
+Computational thinking is a systematic process, involving well-defined steps. This helps you think more organized and efficiently, both in personal and professional life.
+
+### Teamwork: 
+Computational thinking emphasizes the importance of collaboration to solve complex problems. This helps you work better with other people, sharing ideas and resources.
+
+### Creativity and design: 
+Computational thinking requires creativity to identify patterns and innovative solutions. This helps you think outside the box and find new ways to solve problems.
+
+### Facilitator:
+Computational thinking helps you explain complex concepts in a clear and concise way. This can be a valuable skill in a variety of contexts, from teaching to problem-solving.
+
+### Critical thinking: 
+Computational thinking requires the use of logical reasoning to evaluate information and make decisions. This helps you think more critically and make informed decisions.
+
+## Here are some examples of how these skills can be applied in real life:
+
+* A student can use computational thinking to break down a large project into smaller, more manageable tasks.
+
+* An employee can use computational thinking to collaborate with colleagues to find a solution to a business problem.
+
+* A designer can use computational thinking to create a product or service that meets the needs of users.
+
+* A teacher can use computational thinking to explain a complex concept in a clear and concise way.
+
+* A decision-maker can use computational thinking to evaluate information and make informed decisions.
