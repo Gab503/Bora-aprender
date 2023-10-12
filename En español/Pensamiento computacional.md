@@ -113,3 +113,65 @@ Es un proceso continuo presente en todas las etapas.
 * Más eficiencia
 * Menos tiempo
 * Menos almacenamiento
+
+# Pilares
+
+**Descomposición:** *"Si no puedes resolver un problema, entonces hay un problema más fácil que puedes resolver: encuéntralo" (George Polya)*. *"Si tienes un problema que no puedes resolver, significa que existe un problema más fácil que puede ser resuelto."*
+
+*Ante un problema complejo, debemos dividirlo en problemas más pequeños. Por lo tanto, problemas más fáciles y manejables.*
+
+**Estrategia:**
+
+1. **Fase de Análisis:** Proceso de descomponer y determinar partes más pequeñas y manejables. Consiste en:
+   - Estudiar y explorar el problema de manera que puedas descomponerlo en elementos constituyentes de ese problema.
+   - Realizar un examen detallado para una mejor eficacia en la resolución.
+
+2. **Fase de Síntesis:** Combinar los elementos recomponiendo el problema original. Una vez que hayas separado el problema en partes más pequeñas, esas partes deben agregarse y recomponerse de una manera que tenga sentido. La síntesis es un proceso de reconstrucción que consiste en reunir elementos distintos en un solo elemento, fusionándolos de manera coherente.
+
+**Orden de ejecución de tareas más pequeñas:**
+
+Pueden variar, en secuencia y en paralelo.
+
+- *Secuencial:* Existe una dependencia entre las tareas. Se ejecutan en "fila".
+
+- *Paralelo:* Las tareas pueden ejecutarse simultáneamente, ocurriendo al mismo tiempo y en paralelo.
+
+No basta con aplicarlo. Desarrolla la descomposición "por ti mismo".
+
+Formas diferentes de descomponer el mismo problema.
+
+**¿Cómo descomponer?**
+
+Comprende el problema. Deja el problema principal en segundo plano y concéntrate en los componentes, identificando las características dependientes.
+
+- Identificar o recopilar datos -> Agregar los datos -> Funcionalidades
+
+**Ejemplos:**
+
+- Cocinar:
+  - Identificar los ingredientes.
+  - Determinar las etapas (secuenciales o en paralelo).
+  - Ejecutar cada etapa.
+  - Agregar los ingredientes para finalizar (recomponer de manera coherente).
+
+- Funcionamiento de una bicicleta:
+  - Identificar los componentes.
+  - Función de cada componente.
+  - Interdependencia de las piezas.
+  - Todo esto junto da como resultado el funcionamiento del sistema/bicicleta.
+
+- Crear una aplicación:
+  - Finalidad.
+  - Interfaz.
+  - Funcionalidades.
+  - Requisitos previos.
+  - Todo esto, agregado/junto, resulta en la definición de componentes y etapas.
+
+- Artículo:
+  - ¿Qué se va a tratar?
+  - Estructura.
+  - Contenido de cada tema.
+  - Textos de conexión.
+  - Definición de componentes y etapas.
+ 
+  
