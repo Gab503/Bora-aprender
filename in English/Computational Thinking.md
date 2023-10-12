@@ -230,3 +230,38 @@ We can identify similarities and differences in a situation or problem.
 
 It is widely used in Machine Learning, Neural Networks, Artificial Intelligence, and Data Science.
 
+# Abstraction/Generalization
+
+- **Abstraction** consists of observing one or more elements, evaluating their characteristics and properties, and separating them.
+- **Abstraction** is an intellectual process of isolating an object from reality.
+- **Generalization** is to become general, broader, an extension/extension (taking from the concrete/solid and placing it "in the world of ideas").
+- **Generalization**, in logic, is the intellectual operation that consists of bringing together in a general class a set of similar beings or phenomena.
+
+**How to classify data?**
+- Characteristics
+- Essential points. For example, a table can have various shapes (round, square, rectangular), but they have an essence that makes them tables.
+- Generalize vs. Detail
+
+**Data representation:**
+- For example, student data:
+  - Essential points: Name, registration number, address, campus, course, phone, email...
+  - Details: Work, children, hobbies, shoe size...
+
+**Concepts based on abstractions:**
+- Algorithms
+  - Merge Sort
+  - Clustering
+  - Binary search
+- Lists
+- Graphs
+- Trees
+- Communication
+- Architectures
+  - Among others
+
+**Example:** Where to start cleaning the terrain?
+- Distances
+- Determine the most efficient route.
+- Extrapolate to other scenarios.
+- Etc...
+
