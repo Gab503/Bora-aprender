@@ -296,3 +296,55 @@ Le processus de résolution de problèmes se déroule "étape par étape" en uti
    - Sinon, imprimer("Malheureusement, vous avez échoué à l'année").
   
    
+# Étude de cas
+
+**Exemple 1:** Vous êtes perdu dans une forêt. Comment résoudre le problème en utilisant la pensée informatique ?
+
+- Identifier les mécanismes.
+- Ressources communes.
+- Détails les plus importants :
+  - Survie = eau, nourriture, abri.
+  - Eau : pluie, source ; une fois trouvée, vous avez besoin de feu pour la faire bouillir.
+  - Nourriture : cueillette, chasse ; vous avez besoin de feu pour cuisiner.
+  - Abri : emplacement, carte ; Protection, chaud et sec. Lance, feu pour rester au sec et éloigner les animaux.
+- Il y a un modèle, le besoin de feu, qui est le détail le plus important. La carte n'a pas besoin d'être détaillée, elle peut être abstraite.
+
+**Exemple 2 :** Somme d'un nombre entre 1 et 200.
+
+- La valeur se répète, combien de fois ? 200/2 = 100.
+- Résultat : 201 x 100 = 20 100.
+
+**Comment exprimer cela de manière plus généralisée ?**
+
+- Exemple : Somme d'un nombre entre x et y.
+- [x, y] -> intervalle.
+- y = 200, x = 1.
+- y + x = résultat partiel, 200 + 1 = 201.
+- (y-1) + (x+1) = résultat partiel, 199 + 2 = 201.
+- Total x Résultat partiel = résultat.
+- y/2 = total, 200/2 = 100.
+- Algorithme :
+  1. Recevoir les valeurs (x et y).
+  2. Résoudre : y/2 = total.
+  3. Résoudre : y + x = résultat partiel.
+  4. Trouver le total.
+  5. Final = total x résultat partiel.
+  6. Imprimer le résultat.
+
+**Exemple : Devinez un nombre :**
+
+- Le nombre est-il 1 ? Non.
+- Le nombre est-il 2 ? ... De cette manière, cela prendrait beaucoup de temps.
+- Une manière plus efficace serait :
+  - Le nombre est-il supérieur à 50 ? Non.
+  - Le nombre est-il inférieur à 20 ? Oui.
+  - Nous limitons la plage de nombres possibles.
+
+**Compétence :**
+
+- Comment améliorer cette compétence ?
+  - Permettre à vos étudiants d'expliquer leurs décisions et leur processus de développement (Brennan et Resnick).
+  - Pour un problème donné.
+  - "Prenez un problème et expliquez vos décisions".
+ 
+    
