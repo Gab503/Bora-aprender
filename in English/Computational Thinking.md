@@ -130,3 +130,63 @@ It is a continuous process present at all stages.
 * More efficiency
 * Less time
 * Less storage
+
+# Pillars
+
+**Decomposition:** *"If you can't solve a problem, then there is an easier problem that you can solve: find it" (George Polya)*. *"If you have a problem that you can't solve, it means there is an easier problem that can be resolved."*
+
+*When faced with a complex problem, we should break it down into smaller, more manageable problems.*
+
+**Strategy:**
+
+1. **Analysis Phase:** The process of breaking down and determining smaller, manageable parts. It involves:
+   - Studying and exploring the problem in a way that allows you to decompose it into constituent elements.
+   - Conducting a detailed examination for more effective resolution.
+
+2. **Synthesis Phase:** Combining the elements to reconstruct the original problem. Once you have separated the problem into smaller parts, these parts need to be aggregated and recomposed in a way that makes sense. Synthesis is a process of reconstruction, involving bringing distinct elements together into a coherent whole.
+
+**Order of Execution for Smaller Tasks:**
+
+It can vary, either sequentially or in parallel.
+
+- *Sequential:* There is a dependency between tasks, executed in a queue.
+
+- *Parallel:* Tasks can be executed concurrently, occurring at the same time and in parallel.
+
+It's not enough to just apply it. Develop decomposition "by yourself."
+
+Different ways to decompose the same problem.
+
+**How to Decompose?**
+
+Understand the problem. Put the main problem in the background and focus on the components, identifying dependent characteristics.
+
+- Identify or collect data -> Aggregate the data -> Functionalities
+
+**Examples:**
+
+- Cooking:
+  - Identify the ingredients.
+  - Determine the steps (sequential or parallel).
+  - Execute each step.
+  - Aggregate the ingredients to finish (recompose coherently).
+
+- Bicycle Operation:
+  - Identify the components.
+  - Role of each component.
+  - Interdependence of the parts.
+  - All of this together results in the functioning of the system/bicycle.
+
+- Creating an Application:
+  - Purpose.
+  - Interface.
+  - Functionalities.
+  - Prerequisites.
+  - All of this, when combined, results in the definition of components and stages.
+
+- Article:
+  - What will be covered?
+  - Structure.
+  - Content of each topic.
+  - Connection texts.
+  - Definition of components and stages.
