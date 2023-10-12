@@ -212,4 +212,37 @@ Podemos identificar similitudes y diferencias en una situación o problema.
 
 Se utiliza ampliamente en Aprendizaje Automático, Redes Neuronales, Inteligencia Artificial y Ciencia de Datos.
 
+# Abstracción/Generalización
 
+- **Abstraer** consiste en observar uno o más elementos, evaluar sus características y propiedades, y separarlos.
+- **Abstracción** es un proceso intelectual de aislar un objeto de la realidad.
+- **Generalizar** es volver algo general, más amplio, una extensión (sacarlo de lo concreto/sólido y colocarlo "en el mundo de las ideas").
+- **Generalización**, en lógica, es la operación intelectual que consiste en reunir en una clase general un conjunto de seres o fenómenos similares.
+
+**¿Cómo clasificar los datos?**
+- Características
+- Puntos esenciales. Por ejemplo, una mesa puede tener varias formas (redonda, cuadrada, rectangular), pero tienen una esencia que las hace mesas.
+- Generalización frente a Detalle
+
+**Representación de datos:**
+- Por ejemplo, datos de un estudiante:
+  - Puntos esenciales: Nombre, número de registro, dirección, campus, curso, teléfono, correo electrónico...
+  - Detalles: Trabajo, hijos, pasatiempos, talla de calzado...
+
+**Conceptos basados en abstracciones:**
+- Algoritmos
+  - Merge Sort
+  - Agrupamiento
+  - Búsqueda binaria
+- Listas
+- Gráficos
+- Árboles
+- Comunicación
+- Arquitecturas
+  - Entre otros
+
+**Ejemplo:** ¿Por dónde empezar a limpiar el terreno?
+- Distancias
+- Determinar la ruta más eficiente.
+- Extrapolación a otros escenarios.
+- Etc...
