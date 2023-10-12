@@ -190,3 +190,43 @@ Understand the problem. Put the main problem in the background and focus on the 
   - Content of each topic.
   - Connection texts.
   - Definition of components and stages.
+
+
+# Pattern Recognition
+
+- **Base Model.**
+- **Invariant Structure.**
+- **Repetition.**
+
+We can identify similarities and differences in a situation or problem.
+
+**Example:** Social media photos.
+
+**Why identify patterns?** It is a way to generalize, with the goal of solving different problems.
+
+**Classifying objects based on Classes and Categories we know**, varying according to the domain and the type of media/object.
+
+**How does the computer recognize patterns?** How does a human do it?
+
+*By humans:*
+- Degree of similarity.
+- Known groups vs. unknown object. For example, an unknown fruit; I don't know what kind of fruit it is, but I know it's a fruit, it has seeds, peel, color, etc. Patterns that help me identify it as a fruit.
+- Comparison.
+
+*By the computer: How can we simulate this behavior on the computer?*
+- Attribute representation (providing data to the computer so it understands what a particular object means).
+- Learning - concept associated with the object.
+- Storing data (so the computer can access it and make decisions about categorizing a particular object).
+- Establishing decision rules.
+
+**Summary:** Pattern recognition is part of an approach in which you extract the features of a problem and classify this data using different methods, applying them in different contexts.
+
+**Applications:**
+- Data classification.
+- Recognition.
+- Speech recognition.
+- Scene analysis.
+- Document classification.
+
+It is widely used in Machine Learning, Neural Networks, Artificial Intelligence, and Data Science.
+
