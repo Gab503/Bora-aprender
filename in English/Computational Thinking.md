@@ -316,4 +316,53 @@ The problem-solving process occurs "step by step" using instructions. It is impo
    - If the score is 6 or higher, print("Congratulations, you passed the year!")
    - If not, print("Unfortunately, you failed the year")
   
- 
+# Case Study
+
+**Example 1:** You are lost in a forest. How to solve the problem using computational thinking?
+
+- Identify mechanisms.
+- Common resources.
+- Most important details:
+  - Survival = water, food, shelter.
+  - Water: Rain, spring; after finding it, you need fire to boil it.
+  - Food: Collecting, hunting; you need fire to cook it.
+  - Shelter: Location, map; Protection, warm and dry. Spear, fire to stay dry and keep animals away.
+- There is a pattern, the need for fire, which is the most important detail. The map doesn't need to be detailed, it can be abstract.
+
+**Example 2:** Sum of a number between 1 and 200.
+
+- Value repeats, how many times? 200/2 = 100.
+- Result: 201 x 100 = 20,100.
+
+**How to express this in a more generalized way?**
+
+- Example: Sum of a number between x and y.
+- [x, y] -> interval.
+- y = 200, x = 1.
+- y + x = partial result, 200 + 1 = 201.
+- (y-1) + (x+1) = partial_result, 199 + 2 = 201.
+- Total x Partial Result = result.
+- y/2 = total, 200/2 = 100.
+- Algorithm:
+  1. Receive values (x and y).
+  2. Solve: y/2 = total.
+  3. Solve: y + x = partial result.
+  4. Find the total.
+  5. Final = total x partial result.
+  6. Print the result.
+
+**Example: Guess a number:**
+
+- Is the number 1? No.
+- Is the number 2? ... This way would take a long time.
+- A more efficient way would be:
+  - Is the number greater than 50? No.
+  - Is the number less than 20? Yes.
+  - We narrow down the range of possible numbers.
+
+**Skill:**
+
+- How to improve this skill?
+  - Allowing your students to explain their decisions and their development process (Brennan & Resnick).
+  - For a given problem.
+  - "Take a problem and explain your decisions." 
