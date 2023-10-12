@@ -244,4 +244,55 @@ Elle est largement utilisée en apprentissage automatique, en réseaux neuronaux
 - Extrapolation à d'autres scénarios.
 - Etc...
 
+# Algorithmes
 
+L'ordinateur est un allié puissant, il dispose d'une grande quantité d'énergie, peut fonctionner 24 heures sur 24, est efficace et rapide. Cependant, l'ordinateur ne peut pas fonctionner seul ; il a besoin de quelqu'un pour lui fournir des instructions détaillées, et ce quelqu'un, c'est nous. L'objectif principal de l'ordinateur est de recevoir des données, de les manipuler et de les stocker. Il accomplit ces tâches grâce à des programmes qui fournissent des instructions.
+
+Le processus de résolution de problèmes se déroule "étape par étape" en utilisant des instructions. Il est important de prendre en compte :
+
+- Ce qui doit être fait ?
+- Dans quel ordre les étapes doivent être exécutées ?
+- Ces instructions doivent être compréhensibles tant pour les humains que pour les machines/ordinateurs.
+
+**Développement d'un programme :**
+
+- **Étape 1 : Analyse :** Étude et définition des données d'entrée et de sortie.
+- **Étape 2 : Algorithme :** Description du problème à l'aide d'outils narratifs, de flux de données ou de pseudo-code.
+- **Étape 3 : Codage :** L'algorithme est codé en fonction du langage de programmation choisi.
+
+**Un algorithme est une séquence d'étapes ayant un objectif défini, réalisant des tâches spécifiques et un ensemble d'opérations aboutissant à une succession finie d'actions.**
+
+**Exemples d'algorithmes dans la vie quotidienne : Préparer un sandwich, changer une ampoule, suivre une recette de gâteau, se rendre au travail. Toutes ces activités impliquent des instructions étape par étape pour accomplir la tâche.**
+
+**Comment construire un algorithme :**
+
+- Comprendre le problème (Quels sont les points essentiels ?).
+- Définir les données d'entrée (Quelles données allez-vous fournir et quelles données allez-vous utiliser, "données fournies et contexte").
+- Définir le processus (Quels calculs et opérations sont nécessaires, et existe-t-il des contraintes dans le problème ?).
+- Définir les données de sortie (Les données après le traitement).
+- Utiliser une méthode de construction et effectuer des tests et des diagnostics (Construction et affinage de l'algorithme, optimisation).
+
+**Construction d'algorithmes :**
+
+- **Narratif :** Utilisation d'un langage naturel, c'est très simple car il n'introduit pas de nouveaux concepts à apprendre. L'inconvénient de cette méthode est qu'il peut y avoir différentes interprétations.
+
+- **Fluxogramme :** Utilisation de symboles prédéfinis, c'est facile à comprendre, mais cela nécessite des connaissances préalables sur la structure et les symboles.
+
+- **Pseudo-code :** Il a des règles bien définies et ne laisse pas place à des interprétations erronées, avec un processus étape par étape à suivre.
+
+**Exemple : Multiplier deux nombres :**
+
+1. Recevoir les valeurs.
+2. Multiplier.
+3. Imprimer (afficher à l'écran) le résultat.
+
+**Exemple 2 : Moyenne des étudiants :**
+
+1. Recevoir les valeurs.
+2. Calculer la moyenne arithmétique.
+3. Imprimer les résultats.
+4. Règle d'approbation ou de désapprobation, par exemple avec une moyenne de 6 :
+   - Si le score est de 6 ou plus, imprimer("Félicitations, vous avez réussi l'année !")
+   - Sinon, imprimer("Malheureusement, vous avez échoué à l'année").
+  
+   
