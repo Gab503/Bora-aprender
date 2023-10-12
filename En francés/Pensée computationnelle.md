@@ -171,4 +171,42 @@ Comprenez le problème. Mettez le problème principal en arrière-plan et concen
   - Textes de connexion.
   - Définition des composants et des étapes.
  
-  
+  # Reconnaissance de Modèles
+
+- **Modèle de Base.**
+- **Structure Invariante.**
+- **Répétition.**
+
+Nous pouvons identifier des similitudes et des différences dans une situation ou un problème.
+
+**Exemple :** Photos sur les réseaux sociaux.
+
+**Pourquoi identifier des modèles ?** C'est une manière de généraliser dans le but de résoudre différents problèmes.
+
+**Classification d'objets en fonction des Classes et Catégories que nous connaissons**, en variant en fonction du domaine et du type de média/objet.
+
+**Comment l'ordinateur reconnaît-il des modèles ?** Comment l'humain le fait-il ?
+
+*Par les humains :*
+- Degré de similarité.
+- Groupes connus vs objet inconnu. Par exemple, un fruit inconnu ; je ne sais pas de quel type de fruit il s'agit, mais je sais que c'est un fruit, il a des graines, une peau, une couleur, etc. Des modèles qui m'aident à l'identifier comme un fruit.
+- Comparaison.
+
+*Par l'ordinateur : Comment pouvons-nous simuler ce comportement sur l'ordinateur ?*
+- Représentation des attributs (fournir des données à l'ordinateur pour qu'il comprenne ce que signifie un objet particulier).
+- Apprentissage - concept associé à l'objet.
+- Stockage des données (pour que l'ordinateur puisse y accéder et prendre des décisions concernant la catégorisation d'un objet particulier).
+- Établissement de règles de décision.
+
+**Résumé :** La reconnaissance de modèles fait partie d'une approche dans laquelle vous extrayez les caractéristiques d'un problème et classez ces données à l'aide de différentes méthodes, en les appliquant dans différents contextes.
+
+**Applications :**
+- Classification de données.
+- Reconnaissance.
+- Reconnaissance de la parole.
+- Analyse de scène.
+- Classification de documents.
+
+Elle est largement utilisée en apprentissage automatique, en réseaux neuronaux, en intelligence artificielle et en science des données.
+
+
