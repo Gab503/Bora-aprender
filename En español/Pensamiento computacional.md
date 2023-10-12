@@ -246,3 +246,56 @@ Se utiliza ampliamente en Aprendizaje Automático, Redes Neuronales, Inteligenci
 - Determinar la ruta más eficiente.
 - Extrapolación a otros escenarios.
 - Etc...
+
+# Algoritmos
+
+La computadora es una gran aliada; tiene mucha energía, puede trabajar 24 horas, es eficiente y rápida. Sin embargo, la computadora no opera sola; necesita que alguien le proporcione instrucciones detalladas, y somos nosotros quienes las proporcionamos. El principal objetivo de la computadora es recibir datos, manipularlos y almacenarlos. Realiza estas tareas a través de programas que proporcionan instrucciones.
+
+El proceso de resolución de problemas ocurre "paso a paso" utilizando instrucciones. Es importante considerar:
+
+- ¿Qué necesita hacerse?
+- ¿Cuál es el orden de ejecución?
+- Estas instrucciones deben ser comprendidas tanto por humanos como por máquinas/computadoras.
+
+**Desarrollo de un programa:**
+
+- **Paso 1: Análisis:** Estudio y definición de los datos de entrada y salida.
+- **Paso 2: Algoritmo:** Describir el problema utilizando herramientas narrativas, diagramas de flujo o pseudocódigo.
+- **Paso 3: Codificación:** El algoritmo se codifica según el lenguaje de programación elegido.
+
+**Un algoritmo es una secuencia de pasos con un objetivo definido, que realiza tareas específicas y un conjunto de operaciones que resultan en una sucesión finita de acciones.**
+
+**Ejemplos de algoritmos en la vida diaria: Hacer un sándwich, cambiar una bombilla, seguir una receta de pastel, desplazarse al trabajo. Todos estos implican instrucciones paso a paso para completar la tarea.**
+
+**Cómo construir un algoritmo:**
+
+- Comprender el problema ("¿Cuáles son los puntos más importantes?").
+- Definir los datos de entrada (Qué datos proporcionará y con qué datos está trabajando, "datos proporcionados y escenario").
+- Definir el procesamiento (Qué cálculos y operaciones son necesarios y si existen restricciones en este problema).
+- Definir los datos de salida (Los datos después del procesamiento).
+- Utilizar un método de construcción y realizar pruebas y diagnósticos ("Construir y refinar el algoritmo, optimizarlo").
+
+**Construcción de algoritmos:**
+
+- **Narrativa:** Utilizar un lenguaje natural, es muy sencillo ya que no introduce nuevos conceptos que deba aprender. El inconveniente de este método es que puede haber diversas interpretaciones diferentes.
+
+- **Diagrama de flujo:** Utilizar símbolos predefinidos, es fácil de entender pero requiere conocimientos previos de la estructura y los símbolos.
+
+- **Pseudocódigo:** Tiene reglas bien definidas y no deja lugar para interpretaciones erróneas, con un proceso paso a paso a seguir.
+
+**Ejemplo: Multiplicar dos números.**
+
+1. Recibir los valores
+2. Multiplicar
+3. Imprimir (mostrar en la pantalla) el resultado
+
+**Ejemplo 2: Promedio de estudiantes**
+
+1. Recibir los valores
+2. Calcular el promedio aritmético
+3. Imprimir los resultados
+4. Regla de aprobación o reprobación, por ejemplo, con un promedio de 6:
+   - Si la puntuación es 6 o superior, imprimir("¡Felicidades, has aprobado el año!")
+   - De lo contrario, imprimir("Lamentablemente, has reprobado el año")
+  
+   
