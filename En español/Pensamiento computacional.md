@@ -298,4 +298,56 @@ El proceso de resolución de problemas ocurre "paso a paso" utilizando instrucci
    - Si la puntuación es 6 o superior, imprimir("¡Felicidades, has aprobado el año!")
    - De lo contrario, imprimir("Lamentablemente, has reprobado el año")
   
+# Estudio de caso
+
+**Ejemplo 1:** Estás perdido en un bosque. ¿Cómo resolver el problema utilizando el pensamiento computacional?
+
+- Identificar mecanismos.
+- Recursos comunes.
+- Detalles más importantes:
+  - Supervivencia = agua, comida, refugio.
+  - Agua: Lluvia, manantial; después de encontrarla, necesitas fuego para hervirla.
+  - Comida: Recolección, caza; necesitas fuego para cocinar.
+  - Refugio: Ubicación, mapa; Protección, cálido y seco. Lanza, fuego para mantenerte seco y alejar a los animales.
+- Hay un patrón, la necesidad de fuego, que es el detalle más importante. El mapa no necesita ser detallado, puede ser abstracto.
+
+**Ejemplo 2:** Suma de un número entre 1 y 200.
+
+- El valor se repite, ¿cuántas veces? 200/2 = 100.
+- Resultado: 201 x 100 = 20.100.
+
+**Cómo expresar esto de una manera más generalizada?**
+
+- Ejemplo: Suma de un número entre x e y.
+- [x, y] -> intervalo.
+- y = 200, x = 1.
+- y + x = resultado parcial, 200 + 1 = 201.
+- (y-1) + (x+1) = resultado parcial, 199 + 2 = 201.
+- Total x Resultado parcial = resultado.
+- y/2 = total, 200/2 = 100.
+- Algoritmo:
+  1. Recibir los valores (x e y).
+  2. Resolver: y/2 = total.
+  3. Resolver: y + x = resultado parcial.
+  4. Encontrar el total.
+  5. Final = total x resultado parcial.
+  6. Imprimir el resultado.
+
+**Ejemplo: Adivina un número:**
+
+- ¿El número es 1? No.
+- ¿El número es 2? ... De esta manera llevaría mucho tiempo.
+- Una forma más eficiente sería:
+  - ¿El número es mayor que 50? No.
+  - ¿El número es menor que 20? Sí.
+  - Limitamos el rango de números posibles.
+
+**Habilidad:**
+
+- ¿Cómo mejorar esta habilidad?
+  - Permitiendo que tus estudiantes expliquen sus decisiones y su proceso de desarrollo (Brennan y Resnick).
+  - Para un problema dado.
+  - "Toma un problema y explica tus decisiones".
+ 
+    
    
