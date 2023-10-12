@@ -174,4 +174,42 @@ Comprende el problema. Deja el problema principal en segundo plano y concéntrat
   - Textos de conexión.
   - Definición de componentes y etapas.
  
-  
+  # Reconocimiento de Patrones
+
+- **Modelo Base.**
+- **Estructura Invariante.**
+- **Repetición.**
+
+Podemos identificar similitudes y diferencias en una situación o problema.
+
+**Ejemplo:** Fotos en redes sociales.
+
+**¿Por qué identificar patrones?** Es una forma de generalizar, con el objetivo de resolver problemas diferentes.
+
+**Clasificación de objetos, basada en Clases y Categorías que conocemos**, variando según el dominio y el tipo de medio/objeto.
+
+**¿Cómo reconoce el ordenador patrones?** ¿Cómo lo hace el ser humano?
+
+*Por parte del ser humano:*
+- Grado de similitud.
+- Grupos conocidos vs. objeto desconocido. Por ejemplo, una fruta desconocida; no sé qué tipo de fruta es, pero sé que es una fruta, tiene semillas, cáscara, color, etc. Patrones que me ayudan a identificarla como una fruta.
+- Comparación.
+
+*Por parte del ordenador: ¿Cómo podemos simular este comportamiento en el ordenador?*
+- Representación de atributos (proporcionar datos al ordenador para que entienda lo que significa un objeto en particular).
+- Aprendizaje: concepto asociado al objeto.
+- Almacenamiento de datos (para que el ordenador pueda acceder a ellos y tomar decisiones sobre la categorización de un objeto en particular).
+- Establecimiento de reglas de decisión.
+
+**Resumen:** El reconocimiento de patrones es una parte de un enfoque en el que extraes las características de un problema y clasificas estos datos utilizando diversos métodos, aplicándolos en diferentes contextos.
+
+**Aplicaciones:**
+- Clasificación de datos.
+- Reconocimiento.
+- Reconocimiento de voz.
+- Análisis de escenas.
+- Clasificación de documentos.
+
+Se utiliza ampliamente en Aprendizaje Automático, Redes Neuronales, Inteligencia Artificial y Ciencia de Datos.
+
+
