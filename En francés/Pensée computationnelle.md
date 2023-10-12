@@ -209,4 +209,39 @@ Nous pouvons identifier des similitudes et des différences dans une situation o
 
 Elle est largement utilisée en apprentissage automatique, en réseaux neuronaux, en intelligence artificielle et en science des données.
 
+# Abstraction/Généralisation
+
+- **Abstraire** consiste à observer un ou plusieurs éléments, évaluer leurs caractéristiques et propriétés, et les séparer.
+- **L'abstraction** est un processus intellectuel consistant à isoler un objet de la réalité.
+- **Généraliser**, c'est rendre quelque chose plus général, plus vaste, une extension (le retirer du concret/solide et le placer "dans le monde des idées").
+- **La généralisation**, en logique, est l'opération intellectuelle qui consiste à regrouper dans une classe générale un ensemble d'êtres ou de phénomènes similaires.
+
+**Comment classer les données ?**
+- Caractéristiques
+- Points essentiels. Par exemple, une table peut avoir différentes formes (ronde, carrée, rectangulaire), mais elles ont une essence qui les fait être des tables.
+- Généralisation vs Détail
+
+**Représentation des données :**
+- Par exemple, les données d'un étudiant :
+  - Points essentiels : Nom, numéro d'inscription, adresse, campus, cours, téléphone, e-mail...
+  - Détails : Travail, enfants, passe-temps, pointure de chaussure...
+
+**Concepts basés sur des abstractions :**
+- Algorithmes
+  - Tri fusion
+  - Regroupement
+  - Recherche binaire
+- Listes
+- Graphiques
+- Arbres
+- Communication
+- Architectures
+  - Entre autres
+
+**Exemple :** Par où commencer pour nettoyer le terrain ?
+- Distances
+- Déterminer l'itinéraire le plus efficace.
+- Extrapolation à d'autres scénarios.
+- Etc...
+
 
