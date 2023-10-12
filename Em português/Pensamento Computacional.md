@@ -298,6 +298,8 @@ O processo de resolução de problemas ocorre "passo a passo" utilizando instru�
 4. Regra de aprovação, por exemplo, média de 6:
    - Se tirou 6 ou mais, print('Parabéns, você passou de ano!')
    - Se não, print('Infelizmente, você rodou de ano')
+
+     
 # Estudo de Caso
 
 **Exemplo 1:** Você está perdido em uma floresta. Como resolver o problema utilizando o pensamento computacional?
