@@ -110,3 +110,65 @@ C'est un processus continu présent à toutes les étapes.
 * Plus d'efficacité
 * Moins de temps
 * Moins de stockage
+
+# Piliers
+
+**Décomposition :** *"Si vous ne pouvez pas résoudre un problème, alors il existe un problème plus facile que vous pouvez résoudre : trouvez-le" (George Polya)*. *"Si vous avez un problème que vous ne pouvez pas résoudre, cela signifie qu'il existe un problème plus facile qui peut être résolu."*
+
+*Lorsque vous êtes confronté à un problème complexe, vous devriez le diviser en des problèmes plus petits et plus gérables.*
+
+**Stratégie :**
+
+1. **Phase d'Analyse :** Le processus de décomposition et de détermination de parties plus petites et gérables. Cela implique :
+   - Étudier et explorer le problème de manière à pouvoir le décomposer en éléments constitutifs.
+   - Effectuer un examen détaillé pour une résolution plus efficace.
+
+2. **Phase de Synthèse :** Combinaison des éléments pour reconstituer le problème d'origine. Une fois que vous avez séparé le problème en parties plus petites, ces parties doivent être agrégées et recomposées de manière à avoir du sens. La synthèse est un processus de reconstruction, impliquant de rassembler des éléments distincts en un tout cohérent.
+
+**Ordre d'Exécution des Tâches Plus Petites :**
+
+Cela peut varier, soit de manière séquentielle, soit en parallèle.
+
+- *Séquentiel :* Il y a une dépendance entre les tâches, exécutées en file d'attente.
+
+- *Parallèle :* Les tâches peuvent être exécutées simultanément, se produisant en même temps et en parallèle.
+
+Il ne suffit pas de l'appliquer. Développez la décomposition "par vous-même".
+
+Différentes manières de décomposer le même problème.
+
+**Comment décomposer ?**
+
+Comprenez le problème. Mettez le problème principal en arrière-plan et concentrez-vous sur les composants, en identifiant les caractéristiques dépendantes.
+
+- Identifier ou recueillir des données -> Agréger les données -> Fonctionnalités
+
+**Exemples :**
+
+- Cuisine :
+  - Identifier les ingrédients.
+  - Déterminer les étapes (séquentielles ou en parallèle).
+  - Exécuter chaque étape.
+  - Agréger les ingrédients pour terminer (recomposer de manière cohérente).
+
+- Fonctionnement d'un vélo :
+  - Identifier les composants.
+  - Rôle de chaque composant.
+  - Interdépendance des pièces.
+  - Tout cela, combiné, résulte dans le fonctionnement du système/vélo.
+
+- Création d'une application :
+  - Objectif.
+  - Interface.
+  - Fonctionnalités.
+  - Prérequis.
+  - Tout cela, lorsqu'il est combiné, résulte dans la définition des composants et des étapes.
+
+- Article :
+  - Quels seront les sujets abordés ?
+  - Structure.
+  - Contenu de chaque sujet.
+  - Textes de connexion.
+  - Définition des composants et des étapes.
+ 
+  
