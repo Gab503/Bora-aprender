@@ -265,3 +265,55 @@ It is widely used in Machine Learning, Neural Networks, Artificial Intelligence,
 - Extrapolate to other scenarios.
 - Etc...
 
+# Algorithms
+
+The computer is a great ally; it has a lot of energy, can work 24 hours, is efficient and fast. However, the computer doesn't operate by itself; it needs someone to provide detailed instructions, and we are the ones who do that. The main objective of the computer is to receive data, manipulate it, and store it. It performs these tasks through programs that provide instructions.
+
+The problem-solving process occurs "step by step" using instructions. It is important to consider:
+
+- What needs to be done?
+- What is the order of execution?
+- These instructions must be understood by both humans and machines/computers.
+
+**Development of a program:**
+
+- **Step 1: Analysis:** Study and definition of input and output data.
+- **Step 2: Algorithm:** Describe the problem using narrative tools, flowcharts, or pseudocode.
+- **Step 3: Coding:** The algorithm is coded according to the chosen programming language.
+
+**An algorithm is a sequence of steps with a defined goal, performing specific tasks and a set of operations resulting in a finite succession of actions.**
+
+**Examples of algorithms in daily life: Making a sandwich, changing a light bulb, following a cake recipe, commuting to work. All of these involve step-by-step instructions to complete the task.**
+
+**How to build an algorithm:**
+
+- Understanding the problem ("What are the most important points?").
+- Defining input data (What data you will provide and what data you are working with, "provided data and scenario").
+- Defining processing (What calculations and operations are required, and are there any constraints in this problem?).
+- Defining output data (The data after processing).
+- Using a construction method and conducting tests and diagnostics ("Constructing and refining the algorithm, optimizing it").
+
+**Construction of algorithms:**
+
+- **Narrative:** Using natural language, it is straightforward as it doesn't introduce any new concepts that you need to learn. The downside of this method is that there can be various different interpretations.
+
+- **Flowchart:** Using predefined symbols, it is easy to understand but requires prior knowledge of the structure and symbols.
+
+- **Pseudocode:** It has well-defined rules and leaves no room for misinterpretation, with a step-by-step process to follow.
+
+**Example: Multiply two numbers.**
+
+1. Receive the values
+2. Multiply
+3. Print (display on the screen) the result
+
+**Example 2: Average of students**
+
+1. Receive the values
+2. Calculate the arithmetic average
+3. Print the results
+4. Pass/fail rule, for example, with an average of 6:
+   - If the score is 6 or higher, print("Congratulations, you passed the year!")
+   - If not, print("Unfortunately, you failed the year")
+  
+ 
