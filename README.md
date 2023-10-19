@@ -1,6 +1,6 @@
 #### Em portugûes: 
 # Bora-aprender 
- Crie este repositório para ensinar programação. Espero poder lhe ajudar.
+ Crie este repositório por que planejo futaramente ensinar programação. Espero poder lhe ajudar.
 
 #### in English :
 # Let's learn
